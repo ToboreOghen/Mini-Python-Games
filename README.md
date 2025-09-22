@@ -36,7 +36,7 @@ This repo is part of my **#100DaysOfCode / #MyAILearningJourney** where I build 
 ---
 
 ## 📌 Tags
-#Python #PythonProjects #Programming #CodeNewbie #100DaysOfCode #CodingOnMobile #MyAILearningJourney #SQLite  
+#Python #AI #PythonProjects #Programming #CodeNewbie #100DaysOfCode #CodingOnMobile #MyAILearningJourney #SQLite  
 
 ---
 
