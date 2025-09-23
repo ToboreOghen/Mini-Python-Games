@@ -15,7 +15,7 @@ These games run on the console and helped me practice loops, conditionals, and l
 ---
 
 ## 📸 Screenshots
-All screenshots (code + outputs) are stored in the [`screenshots`](Mini-Python-Games/Screenshots/hangman-code.jpg) folder.  
+All screenshots (code + outputs) are stored in the [`screenshots`](/Screenshots) folder.  
 
 ---
 
